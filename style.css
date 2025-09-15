@@ -1,0 +1,10 @@
+.nut{
+    padding: 10px 20px;
+    border-left: 3px groove purple;
+    border-top: 2px solid red;
+    border-right: 3px dotted blue;
+    border-bottom: 5px double green;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
